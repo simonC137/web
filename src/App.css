@@ -40,8 +40,9 @@ h1 {
   font-size: 12em;
   margin-top:20%;
   margin-bottom: 50%;
-  margin-left: 25%;
-  margin-right: 25%;
+  align-items: center;
+  margin-left: 30%;
+  margin-right: auto;
 }
 a:hover {  
   color: var(--color-background);
